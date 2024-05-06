@@ -2,8 +2,8 @@
 *
 #don't ignore this and subdirectory
 !.gitignore
-!/nvim/*
-!/hypr/*
-!/waybar/*
-!/wofi/*
-!/git/*
+!/nvim/**/
+!/hypr/**/
+!/waybar/**/
+!/wofi/**/
+!/git/**/
